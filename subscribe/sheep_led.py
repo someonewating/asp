@@ -1,6 +1,8 @@
 import wiringpi
 from wiringpi import GPIO
 
+#This file is used to control cooresponding color of LED
+
 blue = 0
 green = 2
 red = 3
